@@ -18,21 +18,7 @@ This Python script simulates a pharmacy management system with functionalities f
 - Python 3.x
 
 ## How to Use
-
-1. **Setup**:
-   - Clone the repository:
-     ```sh
-     git clone <repository-url>
-     cd pharmacy-management-system
-     ```
-   
-2. **Run the Script**:
-   - Execute the script:
-     ```sh
-     python pharmacy.py
-     ```
-   
-3. **Navigation**:
+ **Navigation**:
    - Follow the on-screen prompts to:
      - Add users
      - Display medicines
@@ -57,8 +43,8 @@ This Python script simulates a pharmacy management system with functionalities f
 
 ## Contributors
 
-- [Your Name](link-to-your-profile) - Role (e.g., Developer)
+- [xvlika](https://github.com/xvlika)
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+NO LICENSE
